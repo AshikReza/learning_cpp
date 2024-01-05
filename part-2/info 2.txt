@@ -1,0 +1,23 @@
+4= C++ Functions:
+
+    A. Function Declaration and Definition
+    B. Function Parameters and Return Types
+    C. Default Arguments
+    D. Function Overloading
+    E. Recursion
+    F. Function Pointers
+
+5= C++ Pointers and References:
+
+    A. Pointer Declaration and Initialization
+    B. Pointer Arithmetic
+    C. Pointer and Arrays
+    D. Pointer and Strings
+    E. Pointer to Functions
+    F. Dynamic Memory Allocation
+    G. Pass by Value vs. Pass by Reference
+    H. Understanding and Using Pointers
+    I. Reference Variables
+
+
+    
