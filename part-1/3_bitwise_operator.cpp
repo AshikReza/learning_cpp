@@ -4,6 +4,8 @@
 
 //  Use Case: This operation is often used for bit masking, where certain bits are selectively kept while others are cleared.
 
+// Code
+
 #include <iostream>
 
 using namespace std;
@@ -25,6 +27,7 @@ int main() {
 
 // Use Case: Useful for setting specific bits to 1, combining different flag values, or creating masks.
 
+// Code
 
 // #include <iostream>
 
@@ -47,6 +50,7 @@ int main() {
 //  Definition: Performs a bitwise XOR operation between each pair of corresponding bits.
 //  Use Case: Toggling specific bits or determining the difference between two sets of bits.
 
+// Code
 
 // #include <iostream>
 
@@ -68,6 +72,7 @@ int main() {
 //  Definition: Inverts the bits of a variable.
 //  Use Case: Useful for flipping all bits in a variable.
 
+// Code
 
 // #include <iostream>
 
@@ -88,6 +93,7 @@ int main() {
 //  Definition: Shifts the bits of a variable to the left by a specified number of positions.
 //  Use Case: Multiplying a number by a power of 2, or creating bit patterns for specific        applications.
 
+// Code
 
 // #include <iostream>
 
@@ -108,6 +114,7 @@ int main() {
 //  Definition: Shifts the bits of a variable to the right by a specified number of positions.
 //  Use Case: Dividing a number by a power of 2, or extracting specific bit fields.
 
+// Code
 
 // #include <iostream>
 
