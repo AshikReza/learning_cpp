@@ -1,6 +1,8 @@
 # Ignore build folders
 cmake-build-debug/
 .idea/
+.vscode/
+
 
 # Ignore object files, archives, shared and static libraries
 *.o
