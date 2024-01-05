@@ -27,9 +27,9 @@
         C1. for
         C2. while
         C3. do-while
+        C4. Nested Loops
     D. Break and Continue Statements
-    E. Nested Loops
-
+    
 4= C++ Functions:
 
     A. Function Declaration and Definition
