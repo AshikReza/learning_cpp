@@ -15,6 +15,7 @@
         E3. Unsigned
         E4. Long Long
     F. String
+    G. Arrays
 
 3= C++ Control Flow:
 
