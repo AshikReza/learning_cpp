@@ -72,35 +72,42 @@ int main() {
         ++n;
     } while (n < 3);
 
+    // Nested Loops
+    for (int i = 1; i <= 3; ++i) {
+        for (int j = 1; j <= 2; ++j) {
+            cout << "Nested loop: (" << i << ", " << j << ")" << endl;
+        }
+    }
+
     return 0;
 }
 
 // ---------------------------------------------------------------
 // * 4. Break and Continue Statements:
 
-#include <iostream>
+// #include <iostream>
 
-using namespace std;
+// using namespace std;
 
-int main() {
-    // Break statement
-    for (int i = 1; i <= 5; ++i) {
-        if (i == 3) {
-            break;
-        }
-        cout << "Iteration " << i << endl;
-    }
+// int main() {
+//     // Break statement
+//     for (int i = 1; i <= 5; ++i) {
+//         if (i == 3) {
+//             break;
+//         }
+//         cout << "Iteration " << i << endl;
+//     }
 
-    // Continue statement
-    for (int j = 1; j <= 5; ++j) {
-        if (j == 3) {
-            continue;
-        }
-        cout << "Iteration " << j << endl;
-    }
+//     // Continue statement
+//     for (int j = 1; j <= 5; ++j) {
+//         if (j == 3) {
+//             continue;
+//         }
+//         cout << "Iteration " << j << endl;
+//     }
 
-    return 0;
-}
+//     return 0;
+// }
 
 
 // ---------------------------------------------------------------
