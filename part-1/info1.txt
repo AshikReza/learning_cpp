@@ -1,0 +1,87 @@
+1= Overview and Setup:
+
+    A. Introduction to C++
+    B. Setting up a C++ Environment
+
+2= C++ Data Types:
+
+    A. Integer
+    B. Floating-Point
+    C. Character
+    D. Boolean
+    E. Modifiers
+        E1. Long
+        E2. Short
+        E3. Unsigned
+        E4. Long Long
+    F. String
+
+3= C++ Control Flow:
+
+    A. Conditional Statements
+        A1. if
+        A2. else if
+        A3. else
+    B. Switch Statement
+    C. Looping Constructs
+        C1. for
+        C2. while
+        C3. do-while
+    D. Break and Continue Statements
+    E. Nested Loops
+
+4= C++ Functions:
+
+    A. Function Declaration and Definition
+    B. Function Parameters and Return Types
+    C. Default Arguments
+    D. Function Overloading
+    E. Recursion
+    F. Function Pointers
+
+5= C++ Pointers and References:
+
+    A. Pointer Declaration and Initialization
+    B. Pointer Arithmetic
+    C. Pointer and Arrays
+    D. Pointer and Strings
+    E. Pointer to Functions
+    F. Dynamic Memory Allocation
+    G. Pass by Value vs. Pass by Reference
+    H. Understanding and Using Pointers
+    I. Reference Variables
+
+6= File Handling in C++:
+
+A. Reading from a File
+B. Writing to a File
+C. Appending to a File
+D. Error Handling
+E. Checking End-of-File
+
+8= Standard Template Library (STL):
+
+A. Vector
+B. Set
+C. Map
+D. Queue
+E. Stack
+
+9= Algorithms in Competitive Programming:
+
+A. Sorting Algorithms
+B. Searching Algorithms
+C. Dynamic Programming
+D. Graph Algorithms
+E. Greedy Algorithms
+F. Backtracking
+G. Binary Search
+H. Bit Manipulation
+
+10= Additional Concepts:
+
+A. 2D Vector
+B. N-Queens Backtracking Example
+C. Fractional Knapsack Greedy Algorithm Example
+D. Binary Search Example
+E. Counting Set Bits Example
