@@ -1,10 +1,10 @@
-//  1/ Bitwise AND (&):
+//  * 1/ Bitwise AND (&):
 
 //  Definition: Performs a bitwise AND operation between each pair of corresponding bits.
 
 //  Use Case: This operation is often used for bit masking, where certain bits are selectively kept while others are cleared.
 
-// Code
+// * Code:-
 
 #include <iostream>
 
@@ -21,13 +21,13 @@ int main() {
 
 // --------------------------------------------------------------------------------
 
-// 2/  Bitwise OR (|):
+// * 2/  Bitwise OR (|):
 
 // Definition: Performs a bitwise OR operation between each pair of corresponding bits.
 
 // Use Case: Useful for setting specific bits to 1, combining different flag values, or creating masks.
 
-// Code
+// * Code:-
 
 // #include <iostream>
 
@@ -45,12 +45,12 @@ int main() {
 // --------------------------------------------------------------------------------
 
 
-//  3/  Bitwise XOR (^):
+//  * 3/  Bitwise XOR (^):
 
 //  Definition: Performs a bitwise XOR operation between each pair of corresponding bits.
 //  Use Case: Toggling specific bits or determining the difference between two sets of bits.
 
-// Code
+// * Code:-
 
 // #include <iostream>
 
@@ -67,12 +67,12 @@ int main() {
 
 // --------------------------------------------------------------------------------
 
-//  4/ Bitwise NOT (~):
+//  * 4/ Bitwise NOT (~):
 
 //  Definition: Inverts the bits of a variable.
 //  Use Case: Useful for flipping all bits in a variable.
 
-// Code
+// * Code:-
 
 // #include <iostream>
 
@@ -88,12 +88,12 @@ int main() {
 
 // --------------------------------------------------------------------------------
 
-// 5/  Left Shift (<<):
+// * 5/  Left Shift (<<):
 
 //  Definition: Shifts the bits of a variable to the left by a specified number of positions.
 //  Use Case: Multiplying a number by a power of 2, or creating bit patterns for specific        applications.
 
-// Code
+// * Code:-
 
 // #include <iostream>
 
@@ -109,12 +109,12 @@ int main() {
 
 // --------------------------------------------------------------------------------
 
-//  6/Right Shift (>>):
+//  * 6/Right Shift (>>):
 
 //  Definition: Shifts the bits of a variable to the right by a specified number of positions.
 //  Use Case: Dividing a number by a power of 2, or extracting specific bit fields.
 
-// Code
+// * Code:-
 
 // #include <iostream>
 
@@ -127,3 +127,4 @@ int main() {
 
 //     return 0;
 // }
+
