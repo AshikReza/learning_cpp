@@ -13,11 +13,11 @@ using namespace std;
 int main() {
 //  Integer Types:
 //  1. int: Integer type. Size: 4 bytes, Range: -2147483648 to 2147483647
-    int integerVar; // Integer variable declaration 
+    int integerVar; //  ? variable declaration 
     cout << "1. int: Integer type. Size: " << sizeof(int) << " bytes, Range: " 
          << numeric_limits<int>::min() << " to " << numeric_limits<int>::max() << endl;
 
-    integerVar = 42; // assigning integer variable  value
+    integerVar = 42; // ? assigning variable value
     cout << "int variable: " << integerVar << endl;
 
     cout << "------------------------------------" << endl;
