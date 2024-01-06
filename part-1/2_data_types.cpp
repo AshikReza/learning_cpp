@@ -6,7 +6,7 @@ using namespace std;
 
 // * numeric_limits is a template class provided by the <limits> header, and it contains information about the properties of fundamental numeric types. 
 
-// * ::min(): This is a member function of numeric_limits that returns the minimum representable value for the specified data type.
+// * ::min(): This is a member function of numeric_limits that returns the minimum representable value for the specified data type. In ::max() it returns the maximum representable value for the specified data type.
 
 // * numeric_limits<  >::min(), the type inside the angle brackets (<  >) specifies the data type for which you want to obtain information about its numeric limits.
 
