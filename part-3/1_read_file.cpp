@@ -8,6 +8,15 @@ int main() {
 
     if (inputFile.is_open()) {
         int num;
+        
+        // ? In C++, the >> operator is known as the extraction operator.
+
+        // ! inputFile >> num: This expression reads data from the inputFile stream into the variable num. It attempts to extract the next value from the file and store it in the variable num. The >> operator automatically handles the conversion of the extracted data to the type of the variable on the left side (in this case, an int).
+
+        // * inputFile >> num: Reads the next value from the file and stores it in num.
+        // If the extraction is successful, the condition is true, and the loop body is executed.
+        // If the extraction fails (e.g., end of file reached), the condition becomes false, and the loop exits.
+
         while (inputFile >> num) {
             cout << "Read: " << num << endl;
         }
