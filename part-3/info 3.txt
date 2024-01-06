@@ -1,0 +1,7 @@
+6= File Handling in C++:
+
+    A. Reading from a File
+    B. Writing to a File
+    C. Appending to a File
+    D. Error Handling
+    E. Checking End-of-File

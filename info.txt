@@ -54,35 +54,35 @@
 
 6= File Handling in C++:
 
-A. Reading from a File
-B. Writing to a File
-C. Appending to a File
-D. Error Handling
-E. Checking End-of-File
+    A. Reading from a File
+    B. Writing to a File
+    C. Appending to a File
+    D. Error Handling
+    E. Checking End-of-File
 
 8= Standard Template Library (STL):
 
-A. Vector
-B. Set
-C. Map
-D. Queue
-E. Stack
+    A. Vector
+    B. Set
+    C. Map
+    D. Queue
+    E. Stack
 
 9= Algorithms in Competitive Programming:
 
-A. Sorting Algorithms
-B. Searching Algorithms
-C. Dynamic Programming
-D. Graph Algorithms
-E. Greedy Algorithms
-F. Backtracking
-G. Binary Search
-H. Bit Manipulation
+    A. Sorting Algorithms
+    B. Searching Algorithms
+    C. Dynamic Programming
+    D. Graph Algorithms
+    E. Greedy Algorithms
+    F. Backtracking
+    G. Binary Search
+    H. Bit Manipulation
 
 10= Additional Concepts:
 
-A. 2D Vector
-B. N-Queens Backtracking Example
-C. Fractional Knapsack Greedy Algorithm Example
-D. Binary Search Example
-E. Counting Set Bits Example
+    A. 2D Vector
+    B. N-Queens Backtracking Example
+    C. Fractional Knapsack Greedy Algorithm Example
+    D. Binary Search Example
+    E. Counting Set Bits Example
