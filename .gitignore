@@ -1,7 +1,7 @@
 # Ignore build folders
 cmake-build-debug/
 .idea/
-.vscode/
+# .vscode/
 
 
 # Ignore object files, archives, shared and static libraries
