@@ -4,25 +4,25 @@
 
 // * Code:
 
-#include <iostream>
-
-using namespace std;
-
-// Function Declaration
-int add(int a, int b);
-
-int main() {
-    // Function Call
-    int result = add(5, 4);
-    cout << "Sum: " << result << endl;
-
-    return 0;
-}
-
-// Function Definition
-int add(int a, int b) {
-    return a + b;
-}
+//#include <iostream>
+//
+//using namespace std;
+//
+//// Function Declaration
+//int add(int a, int b);
+//
+//int main() {
+//    // Function Call
+//    int result = add(10, 4);
+//    cout << "Sum: " << result << endl;
+//
+//    return 0;
+//}
+//
+//// Function Definition
+//int add(int a, int b) {
+//    return a + b;
+//}
 
 // -----------------------------------------------------------------------
 
@@ -32,21 +32,21 @@ int add(int a, int b) {
 
 // * Code:
 
-// #include <iostream>
+ #include <iostream>
 
-// using namespace std;
+ using namespace std;
 
-// // Function with parameters and return type
-// int multiply(int x, int y) {
-//     return x * y;
-// }
+ // Function with parameters and return type
+ int multiply(int x, int y) {
+     return x * y;
+ }
 
-// int main() {
-//     int result = multiply(5, 3);
-//     cout << "Product: " << result << endl;
+ int main() {
+     int result = multiply(5, 3);
+     cout << "Product: " << result << endl;
 
-//     return 0;
-// }
+     return 0;
+ }
 
 // -----------------------------------------------------------------------
 
