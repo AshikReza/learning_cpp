@@ -4,42 +4,42 @@
 
 // * Code:
 
-// #include <iostream>
+ #include <iostream>
 
-// using namespace std;
+ using namespace std;
 
-// int main() {
-//     // In C++, both ( int* A ) and ( int *A ) declare a pointer to an integer, and there is no difference between them in terms of functionality. The placement of the asterisk (*) with the type (int) is a matter of personal or team coding style preference. Both forms are widely used, and the choice often depends on the convention adopted by a particular coding standard or team.
+ int main() {
+     // In C++, both ( int* A ) and ( int *A ) declare a pointer to an integer, and there is no difference between them in terms of functionality. The placement of the asterisk (*) with the type (int) is a matter of personal or team coding style preference. Both forms are widely used, and the choice often depends on the convention adopted by a particular coding standard or team.
 
-//     int num = 42;
-//     int *ptr;  // Pointer Declaration
+     int num = 42;
+     int *ptr;  // Pointer Declaration
 
-//     ptr = &num;  // Pointer Initialization
+     ptr = &num;  // Pointer Initialization
 
-//     cout << "Value of num: " << num << endl;
-//     cout << "Address of num: " << &num << endl;
-//     cout << "Value pointed by ptr: " << *ptr << endl;
-//     cout << "Address stored in ptr: " << ptr << endl;
+     cout << "Value of num: " << num << endl;
+     cout << "Address of num: " << &num << endl;
+     cout << "Value pointed by ptr: " << *ptr << endl;
+     cout << "Address stored in ptr: " << ptr << endl;
 
-//     cout << "------------------------------" << endl;
+     cout << "------------------------------" << endl;
 
-//     int myVariable = 42;
+     int myVariable = 42;
 
-//     // Using the address-of operator to find the address of the variable.
-//     // int* is a pointer type that can store the memory address of an integer variable.
-//     int* ptrToVariable = &myVariable;
+     // Using the address-of operator to find the address of the variable.
+     // int* is a pointer type that can store the memory address of an integer variable.
+     int* ptrToVariable = &myVariable;
 
-//     cout << "Value of myVariable: " << myVariable << endl;
-//     cout << "Address of myVariable: " << ptrToVariable << endl;
+     cout << "Value of myVariable: " << myVariable << endl;
+     cout << "Address of myVariable: " << ptrToVariable << endl;
 
-//     // Change the value of myVariable through the pointer
-//     *ptrToVariable = 99;
+     // Change the value of myVariable through the pointer
+     *ptrToVariable = 99;
 
-//     // Print the updated value of myVariable
-//     cout << "Updated value of myVariable: " << myVariable << endl;
+     // Print the updated value of myVariable
+     cout << "Updated value of myVariable: " << myVariable << endl;
 
-//     return 0;
-// }
+     return 0;
+ }
 
 // ---------------------------------------------------------------------
 

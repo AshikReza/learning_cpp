@@ -7,7 +7,7 @@ int main() {
     ofstream outputFile("2_output.txt");
 
     if (outputFile.is_open()) {
-        for (int i = 1; i <= 5; ++i) {
+        for (int i = 1; i <= 20; ++i) {
             outputFile << i << " ";
         }
 
