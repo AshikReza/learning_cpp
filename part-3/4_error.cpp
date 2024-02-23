@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     // Try to open a file that doesn't exist
-    ifstream inputFile("4_nonexistent.txt");
+    ifstream inputFile("part-3/4_nonexistent.txt");
 
     // Check if the file is open
     if (!inputFile.is_open()) {

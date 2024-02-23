@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     // Open the file in a way that is safer and more idiomatic
-    ifstream inputFile("5_input.txt");
+    ifstream inputFile("part-3/5_input.txt");
 
     // Check if the file is open
     if (!inputFile) {

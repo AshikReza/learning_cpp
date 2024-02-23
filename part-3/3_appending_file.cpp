@@ -8,7 +8,7 @@ using namespace std;
 int main() {
     // ? ( ios::app ) This flag is used when opening the file to indicate that the file should be opened in append mode. It ensures that the file pointer is positioned at the end of the file.
     
-    ofstream outputFile("3_output.txt", ios::app);
+    ofstream outputFile("part-3/3_output.txt", ios::app);
 
     if (outputFile.is_open()) {
         for (int i = 6; i <= 10; ++i) {

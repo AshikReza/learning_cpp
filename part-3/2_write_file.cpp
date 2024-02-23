@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    ofstream outputFile("2_output.txt");
+    ofstream outputFile("part-3/2_output.txt");
 
     if (outputFile.is_open()) {
         for (int i = 1; i <= 20; ++i) {

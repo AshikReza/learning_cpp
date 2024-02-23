@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    ifstream inputFile("1_input.txt");
+    ifstream inputFile("part-3/1_input.txt");
 
     if (inputFile.is_open()) {
         int num;
