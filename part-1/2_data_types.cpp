@@ -72,6 +72,24 @@ int main() {
 
     cout << "------------------------------------" << endl;
 
+        // int a = 3, b = 2;
+        // float f = a / b;  // f will be 1.0, NOT 1.5!
+        // Why? Because:
+
+        // a / b is evaluated first as integer division → 1
+
+        // Then it's assigned to f → becomes 1.0
+
+        // ✅ Why (double)a / b works
+        // By casting a to double, you're telling the compiler:
+
+        // "Do this division using floating-point math"
+
+        // So:
+        // double f = (double)a / b;
+        // Now the division becomes:
+        // 3.0 / 2 → 1.5
+
 //  7. double: Double-precision floating-point type. Size: 8 bytes
     double doubleVar;
     cout << "7. double: Double-precision floating-point type. Size: " << sizeof(double) << " bytes" << endl;
